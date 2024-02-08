@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg)
+
 <h1 align="center">Hi 👋, I'm Miray Çetin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
